@@ -1,3 +1,3 @@
-# Homebrew-custom
+# Homebrew
 
-Telemundo's custom formulae repo for Homebrew.
+Custom formulae repo for Homebrew.
